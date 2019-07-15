@@ -13,7 +13,6 @@ public class ReversingArray {
             arrHolder[j]=arr[i];
             j++;
         }
-
         return arrHolder;
     }
 
